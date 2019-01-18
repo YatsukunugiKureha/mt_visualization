@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Nelder-Mead](https://github.com/YatsukunugiKureha/mt_visualization/edit/master/test.html)
+[Nelder-Mead](https://github.com/YatsukunugiKureha/mt_visualization/edit/master/nelder-mead.html)
 
 
 
