@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
-[Nelder-Mead](https://github.com/YatsukunugiKureha/mt_visualization/edit/master/nelder-mead.html)
-
+[Nelder-Mead](nelder-mead.html)
+[TPE](tpe.html)
+[Random Search](random-search.html)
 
 
 You can use the [editor on GitHub](https://github.com/YatsukunugiKureha/mt_visualization/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
